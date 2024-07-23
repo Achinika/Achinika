@@ -1,4 +1,4 @@
-[! [MasterHead] (https://i.pinimg.com/originals/d1/4b/cf/d14bcfd764fc7aa5a06af4756ffc6876.jpg)]
+![MasterHead](https://i.pinimg.com/originals/d1/4b/cf/d14bcfd764fc7aa5a06af4756ffc6876.jpg)
 <h1 align="center">Hi 👋, I'm Achinika Arangala</h1>
 <h3 align="center">A passionate UI/UX and frontend developer from Sri Lanka</h3>
 
